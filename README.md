@@ -46,3 +46,6 @@ Follow these steps to use the program:
 ```
 Please replace `your-username` in the clone URL with your actual GitHub username and adjust any other details as needed to match your project structure. This README provides a basic overview of the project, its requirements, and how to run it. You can expand it further with additional sections or details if necessary.
 ```
+
+## Credits
+This project was created by Cesar Colato
